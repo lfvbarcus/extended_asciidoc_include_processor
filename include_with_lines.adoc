@@ -1,0 +1,23 @@
+== This is some really good content that should be included with lines
+
+some text
+more
+and more
+
+some other stuff
+
+wonder i this will be included?
+noone knows.
+
+
+a cool table 
+
+|===
+|Hej|Hello
+|Japp|Mars
+|===
+
+
+some more text after the table
+
+== end of file

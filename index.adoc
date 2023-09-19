@@ -1,0 +1,7 @@
+= OAuth Extension Test
+
+include::include.adoc[oauth_token=funwithtoken232403243, tags=hello]
+include::include_with_lines.adoc[lines=1..20]
+
+
+include::https://raw.githubusercontent.com/asciidoctor/asciidoc-docs/main/README.adoc[]
